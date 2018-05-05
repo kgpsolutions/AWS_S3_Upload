@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "app_aws_s3_upload.pbt";
+@end;
+DefaultTarget "app_aws_s3_upload.pbt";
+DefaultRemoteTarget "app_aws_s3_upload.pbt";
